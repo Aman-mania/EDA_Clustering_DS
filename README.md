@@ -15,6 +15,9 @@ The repository contains the following files:
 
 The main objective of this project is to demonstrate proficiency in data science tasks, including data exploration, clustering, and building models, which are part of the assignment requirements for the Data Science Intern position at Zeotap.
 
+## Additional Links for reference 
+Drive file containing additional insights-> https://drive.google.com/drive/folders/1OAw3Dv3PUD3We6j-RSadsq9AGldcbBQQ?usp=sharing
+
 ## How to Use
 
 1. Clone the repository:
