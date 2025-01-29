@@ -1,4 +1,4 @@
-# Aman-mania: Zeotap Data Science Intern Assignment
+# Zeotap Data Science Intern Assignment
 
 This repository contains the solutions for the assignment provided by Zeotap for the Data Science Intern role.
 
